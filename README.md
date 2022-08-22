@@ -1,5 +1,6 @@
 
 <h1 id="welcome-to-arora-server">Welcome to ARORA Server</h1>
+<p>NOTE: This fork is not updated and is a snapshot of my work on the ARORA Project's backend. Please use the original repository for the current production code.</strong></a>.</p>
 <p>This is a server project based on <a href="%5Bhttps://www.django-rest-framework.org/%5D(https://www.django-rest-framework.org/)"><strong>Django REST Framework</strong></a>.</p>
 <h1 id="package-dependency">Package Dependency</h1>
 <ol>
